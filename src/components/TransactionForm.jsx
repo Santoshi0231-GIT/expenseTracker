@@ -64,7 +64,7 @@ const TransactionForm = ({ onAdd }) => {
                 <option value="income">Income</option>
             </select>
 
-            <button type='submit' className='bg-blue-800 rounded-2xl px-2 py-2 text-2xl text-white m-1 cursor-pointer hover:bg-green-500
+            <button type='submit' className='bg-blue-800 rounded-4xl px-2 py-2 text-2xl text-white m-1 cursor-pointer hover:bg-green-500
         '>Submit</button>
         </form>
     )
